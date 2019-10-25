@@ -5,7 +5,7 @@ end
 
 def deal_card
     rand 1..11
-
+    binding.pry
      # code #deal_card here
 end
 
