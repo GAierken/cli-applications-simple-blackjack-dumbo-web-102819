@@ -5,12 +5,13 @@ end
 
 def deal_card
     rand 1..11
-    binding.pry
+
      # code #deal_card here
 end
 
 def display_card_total(total)
   puts "Your cards add up to #{total}"
+  binding.pry
   # code #display_card_total here
 end
 
