@@ -64,6 +64,5 @@ end
 
 def runner
   welcome
-  initial_round
-  # code runner here
+code runner here
 end
