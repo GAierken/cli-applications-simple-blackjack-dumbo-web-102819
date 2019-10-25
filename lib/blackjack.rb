@@ -35,8 +35,13 @@ def initial_round
   # code #initial_round here
 end
 
-def hit?
+def hit?(user_input)
   prompt_user
+  user_input=get_user_input
+
+  if get_user_input= "h"
+    
+    
 
   # code hit? here
 end
