@@ -36,11 +36,11 @@ def initial_round
 end
 
 def hit?
-  
+
   # code hit? here
 end
 
-def invalid_command (command)
+def invalid_command
   puts "Please enter a valid command"
   # code invalid_command here
 end
