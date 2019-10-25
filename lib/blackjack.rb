@@ -40,8 +40,8 @@ def hit?(user_input)
   user_input=get_user_input
 
   if get_user_input= "h"
-    
-    
+
+
 
   # code hit? here
 end
