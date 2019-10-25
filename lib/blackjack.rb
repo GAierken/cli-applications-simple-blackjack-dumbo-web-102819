@@ -24,7 +24,8 @@ def get_user_input
 end
 
 def end_game
-  # code #end_game here
+  total = display_card_total
+   "Sorry, you hit 27. Thanks for playing!"  #end_game here
 end
 
 def initial_round
